@@ -36,6 +36,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://wiki.aragon.org/association/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://wiki.aragon.org/association/event_policy/</loc>
      <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
@@ -386,77 +391,82 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/blog/2019/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/blog/2018/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/blog/2017/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/blog/A1/2019/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/blog/A1/2018/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/design/artwork/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/design/A1/logo/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/design/merch/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/dev/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/documentation/Development_Plan/</loc>
+     <loc>https://wiki.aragon.org/archive/Core/</loc>
      <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://wiki.aragon.org/archive/documentation/aragonOS_201/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/documentation/security_disclosure/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/documentation/audits/audit01_report_dossa/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/documentation/audits/audit_internal_sun/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/documentation/audits/audit_whg01_report/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/documentation/Development_Plan/</loc>
      <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -486,56 +496,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://wiki.aragon.org/archive/blog/2019/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/blog/2018/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/blog/2017/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/blog/A1/2019/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/blog/A1/2018/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/documentation/audits/audit01_report_dossa/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/documentation/audits/audit_internal_sun/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/documentation/audits/audit_whg01_report/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/tutorials/DAO_Workshop_Testnet_by_joselfgaray/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://wiki.aragon.org/archive/tutorials/Status_Open_Bounty_Guide/</loc>
-     <lastmod>2019-06-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://wiki.aragon.org/archive/meetings/hq/01/</loc>
      <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
@@ -561,328 +521,328 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/11/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/10/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/alexa/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/bingen/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/brett/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/chris/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/john/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/jorge/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/jouni/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/luis/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/luke/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/maria/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/oliver/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/pierre/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm10/tatu/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/09/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/alexa/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/bingen/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/brett/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/john/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/jorge/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/jouni/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/luis/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/luke/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/maria/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/oliver/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/pierre/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm09/tatu/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/08/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/alexa/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/brett/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/john/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/jorge/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/luis/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/luke/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/maria/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/oliver/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/pierre/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm08/tatu/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/07/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/alexa/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/brett/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/light-cm07/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/jorge/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/luis/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/luke/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/maria/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/oliver/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/pierre/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm07/tatu/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/06/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/brett/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/john/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/jorge/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/luis/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/luke/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/maria/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/oliver/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/pierre/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/write-ups/cm06/tatu/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/05/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/04/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/03/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/02/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/meetings/community/01/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -931,33 +891,83 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/jobs/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/jobs/openings/DAC-Technical_Writer/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/jobs/openings/DAC-UX_Designer/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/jobs/openings/DAC-Project_Manager/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_One/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://wiki.aragon.org/archive/Aragon_One/team/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/design/A1/logo/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/Aragon_DAC/team/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/design/DAC/logo/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/tutorials/Aragon_User_Guide/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/tutorials/Aragon_Core_User_Guide/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/tutorials/DAO_Workshop_Testnet_by_joselfgaray/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/tutorials/Status_Open_Bounty_Guide/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/videos/tutorials/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wiki.aragon.org/archive/videos/community/</loc>
+     <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
