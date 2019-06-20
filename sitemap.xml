@@ -76,6 +76,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://wiki.aragon.org/network/aragon_network_token/</loc>
+     <lastmod>2019-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://wiki.aragon.org/network/governance/</loc>
      <lastmod>2019-06-20</lastmod>
      <changefreq>daily</changefreq>
@@ -396,8 +401,8 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://wiki.aragon.org/design/artwork/</loc>
-     <lastmod>2019-06-20</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
